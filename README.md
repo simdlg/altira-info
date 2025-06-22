@@ -22,13 +22,13 @@ The app does **not** collect any personal data. The only permissions requested a
 ### ☀️ Light theme
 
 <div display="flex"> 
-  <img src="https://github.com/simdlg/altira-info/blob/main/imgs/screenshot-1.png" alt="Screenshot 1" width="200px" />
-  <img src="https://github.com/simdlg/altira-info/blob/main/imgs/screenshot-2.png" alt="Screenshot 2" width="200px" />
+  <img src="https://github.com/simdlg/altira-info/blob/main/imgs/screenshot-1.jpg" alt="Screenshot 1" width="200px" />
+  <img src="https://github.com/simdlg/altira-info/blob/main/imgs/screenshot-2.jpg" alt="Screenshot 2" width="200px" />
 </div>
 
 ### 🌙 Dark Theme
 
 <div display="flex">
-  <img src="https://github.com/simdlg/altira-info/blob/main/imgs/screenshot-3.png" alt="Screenshot 3" width="200px" />
-  <img src="https://github.com/simdlg/altira-info/blob/main/imgs/screenshot-4.png" alt="Screenshot 4" width="200px" />
+  <img src="https://github.com/simdlg/altira-info/blob/main/imgs/screenshot-3.jpg" alt="Screenshot 3" width="200px" />
+  <img src="https://github.com/simdlg/altira-info/blob/main/imgs/screenshot-4.jpg" alt="Screenshot 4" width="200px" />
 </div>
